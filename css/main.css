@@ -1,0 +1,146 @@
+.card{
+    width: 215px;
+    height: 430px;
+}
+
+.card-title{
+    font-size: 18px;
+}
+
+.card-image{
+    width: 215px;
+    height: 290px;
+}
+
+@media screen and (max-width: 1300px){
+    .card{
+        width: 140px;
+        height: 300px;
+    }
+
+    .card-image{
+        width: 140px;
+        height: 170px;
+    }
+
+    .col{
+        float: left;
+    }
+
+    .row h4{
+        font-size: 20px;
+    }
+
+    .card-title{
+        font-size: 14px;
+    }
+
+    .enlace-car{
+        font-size: 12px;
+    }
+
+    .row .col.s12 {
+        width: 160px;
+        margin-left: 15px;
+        right: auto;
+    }
+
+    .card .card-content {
+        padding: 10px;
+        border-radius: 0 0 2px 2px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .card{
+        width: 160px;
+        height: 320px;
+    }
+
+    .card-image{
+        width: 160px;
+        height: 190px;
+    }
+
+    .col{
+        float: left;
+    }
+
+    .row h4{
+        font-size: 20px;
+    }
+
+    .card-title{
+        font-size: 14px;
+    }
+
+    .enlace-car{
+        font-size: 12px;
+    }
+
+    .row .col.s12 {
+        width: 160px;
+        margin-left: 15px;
+        right: auto;
+    }
+
+    .card .card-content {
+        padding: 10px;
+        border-radius: 0 0 2px 2px;
+    }
+}
+
+@media screen and (max-width: 400px){
+    .card{
+        width: 140px;
+        height: 240px;
+    }
+
+    .card-content .card-title{
+        font-size: 14px;
+    }
+
+    .material-icons .small {
+        font-size: 1rem;
+    }
+    span .card-title{
+        font-size: 18px;
+    }
+    .card-image{
+        width: 140px;
+        height: 145px;
+    }
+
+    .card-reveal .card-title{
+        font-size: 14px;
+    }
+
+    .col{
+        float: left;
+    }
+
+    .row h4{
+        font-size: 20px;
+    }
+
+    .card-title{
+        font-size: 12px;
+    }
+
+    .enlace-car{
+        font-size: 10px;
+    }
+
+    .row .col.s12 {
+        width: 130px;
+
+        margin-left: 15px;
+        right: auto;
+    }
+
+    .card .card-content {
+        padding: 10px;
+        border-radius: 0 0 2px 2px;
+    }
+
+}

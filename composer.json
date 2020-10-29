@@ -1,0 +1,16 @@
+{
+    "name": "integradora/libreria-morelos",
+    "description": "PROYECTO INTEGRADORA 10 CUATRIMESTRE - UNIVERSIDAD TECNOLOGICA DE MORELIA",
+    "type": "project",
+    "require": {
+        "mercadopago/dx-php": "dev-master"
+    },
+    "license": "Creative Commons",
+    "authors": [
+        {
+            "name": "Arturo Andrade",
+            "email": "arturoandradm@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

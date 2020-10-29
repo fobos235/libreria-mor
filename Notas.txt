@@ -1,0 +1,9 @@
+Usuario administrador:
+-admin@libreria.net
+
+Contraseña:
+administrador
+
+------------------------------------------------------------------------------------
+Es necesario cambiar el usuario en el archivo conexion.php y admin/conexion.php
+------------------------------------------------------------------------------------
